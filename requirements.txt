@@ -1,0 +1,7 @@
+jupyter
+pandas
+ipywidgets
+networkx
+matplotlib
+jinja2
+numpy
